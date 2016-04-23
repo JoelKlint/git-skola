@@ -1,0 +1,6 @@
+/**
+* Returns your name!
+**/
+public String theBestNameInTheWorld() {
+	return "Joel ;)";
+}

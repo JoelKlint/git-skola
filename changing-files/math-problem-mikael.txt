@@ -1,0 +1,6 @@
+/**
+*	Returns the sum of 1 + 2
+**/
+public int onePlusTwo() {
+	return 0;
+}
