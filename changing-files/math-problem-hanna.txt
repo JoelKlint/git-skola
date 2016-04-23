@@ -1,0 +1,6 @@
+/**
+*	Returns the sum of 4 + 4
+**/
+public int fourPlusFour() {
+	return 0;
+}
