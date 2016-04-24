@@ -1,0 +1,7 @@
+public class Elsas {
+	private String efternamn;
+
+	public Elsa(String efternamn) {
+	this.efternamn = efternamn;
+	}
+}
