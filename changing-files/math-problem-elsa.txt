@@ -2,5 +2,5 @@
 *	Returns the sum of 2 + 2
 **/
 public int twoPlusTwo() {
-	return 0;
+	return 4;
 }
