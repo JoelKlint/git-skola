@@ -1,6 +1,6 @@
 /**
-* Returns your name!
+* Elin Returns your name!
 **/
 public String theBestNameInTheWorld() {
-	return "Joel";
+	return "Elin!!!!";
 }
