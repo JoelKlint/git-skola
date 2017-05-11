@@ -5,6 +5,6 @@ public int onePlusTwo() {
 	int a = 1;
     int b = 2;
     return a + b;
-// LOL Oscar är söt
+// LOL Oscar är söt, och anders är äcklig
 
 }
