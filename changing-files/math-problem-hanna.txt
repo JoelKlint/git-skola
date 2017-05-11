@@ -2,5 +2,5 @@
 *	Returns the sum of 1 + 4
 **/
 public int onePlusFour() {
-	return 0;
+	return 5;
 }
