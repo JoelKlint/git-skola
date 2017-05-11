@@ -1,6 +1,7 @@
 /**
 *	Returns the sum of 1 + 1
+*	asdasd
 **/
 public int onePlusOne() {
-	return 0;
+	return 2;
 }
