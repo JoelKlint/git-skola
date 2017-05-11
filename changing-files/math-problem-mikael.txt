@@ -2,5 +2,7 @@
 *	Returns the sum of 1 + 2
 **/
 public int onePlusTwo() {
-	return 0;
+	int a = 1;
+    int b = 2;
+    return a + b;
 }
